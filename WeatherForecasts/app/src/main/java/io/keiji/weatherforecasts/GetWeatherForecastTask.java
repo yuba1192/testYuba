@@ -7,7 +7,7 @@ import org.json.JSONException;
 import java.io.IOException;
 
 /**
- * Created by yuba on 2017/06/24.
+ * Created by yuba on 2017/06/2411.
  */
 
 public class GetWeatherForecastTask extends AsyncTask<String, Void, WeatherForecast>{
